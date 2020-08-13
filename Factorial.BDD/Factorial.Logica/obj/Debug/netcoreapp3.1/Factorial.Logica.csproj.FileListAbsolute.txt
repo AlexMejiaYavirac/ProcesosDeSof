@@ -1,0 +1,9 @@
+C:\Users\alexp\source\repos\Factorial.BDD\Factorial.Logica\bin\Debug\netcoreapp3.1\Factorial.Logica.deps.json
+C:\Users\alexp\source\repos\Factorial.BDD\Factorial.Logica\bin\Debug\netcoreapp3.1\Factorial.Logica.dll
+C:\Users\alexp\source\repos\Factorial.BDD\Factorial.Logica\bin\Debug\netcoreapp3.1\Factorial.Logica.pdb
+C:\Users\alexp\source\repos\Factorial.BDD\Factorial.Logica\obj\Debug\netcoreapp3.1\Factorial.Logica.csprojAssemblyReference.cache
+C:\Users\alexp\source\repos\Factorial.BDD\Factorial.Logica\obj\Debug\netcoreapp3.1\Factorial.Logica.AssemblyInfoInputs.cache
+C:\Users\alexp\source\repos\Factorial.BDD\Factorial.Logica\obj\Debug\netcoreapp3.1\Factorial.Logica.AssemblyInfo.cs
+C:\Users\alexp\source\repos\Factorial.BDD\Factorial.Logica\obj\Debug\netcoreapp3.1\Factorial.Logica.csproj.CoreCompileInputs.cache
+C:\Users\alexp\source\repos\Factorial.BDD\Factorial.Logica\obj\Debug\netcoreapp3.1\Factorial.Logica.dll
+C:\Users\alexp\source\repos\Factorial.BDD\Factorial.Logica\obj\Debug\netcoreapp3.1\Factorial.Logica.pdb
