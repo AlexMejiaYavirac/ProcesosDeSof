@@ -1,0 +1,13 @@
+C:\Users\alexp\source\repos\Carrera\Carrera\bin\Debug\netcoreapp3.1\Carrera.exe
+C:\Users\alexp\source\repos\Carrera\Carrera\bin\Debug\netcoreapp3.1\Carrera.deps.json
+C:\Users\alexp\source\repos\Carrera\Carrera\bin\Debug\netcoreapp3.1\Carrera.runtimeconfig.json
+C:\Users\alexp\source\repos\Carrera\Carrera\bin\Debug\netcoreapp3.1\Carrera.runtimeconfig.dev.json
+C:\Users\alexp\source\repos\Carrera\Carrera\bin\Debug\netcoreapp3.1\Carrera.dll
+C:\Users\alexp\source\repos\Carrera\Carrera\bin\Debug\netcoreapp3.1\Carrera.pdb
+C:\Users\alexp\source\repos\Carrera\Carrera\obj\Debug\netcoreapp3.1\Carrera.csprojAssemblyReference.cache
+C:\Users\alexp\source\repos\Carrera\Carrera\obj\Debug\netcoreapp3.1\Carrera.AssemblyInfoInputs.cache
+C:\Users\alexp\source\repos\Carrera\Carrera\obj\Debug\netcoreapp3.1\Carrera.AssemblyInfo.cs
+C:\Users\alexp\source\repos\Carrera\Carrera\obj\Debug\netcoreapp3.1\Carrera.csproj.CoreCompileInputs.cache
+C:\Users\alexp\source\repos\Carrera\Carrera\obj\Debug\netcoreapp3.1\Carrera.dll
+C:\Users\alexp\source\repos\Carrera\Carrera\obj\Debug\netcoreapp3.1\Carrera.pdb
+C:\Users\alexp\source\repos\Carrera\Carrera\obj\Debug\netcoreapp3.1\Carrera.genruntimeconfig.cache

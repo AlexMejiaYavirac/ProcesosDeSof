@@ -5716,24 +5716,26 @@
     ]
   },
   "packageFolders": {
-    "/home/alexander/.nuget/packages/": {}
+    "C:\\Users\\alexp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alexander/Documentos/Procesos de desarrollo de software/Ordenamientos/Ordenamientos.csproj",
+      "projectUniqueName": "D:\\Process Software Development\\ProcesosDeSof\\Ordenamientos\\Ordenamientos.csproj",
       "projectName": "Ordenamientos",
-      "projectPath": "/home/alexander/Documentos/Procesos de desarrollo de software/Ordenamientos/Ordenamientos.csproj",
-      "packagesPath": "/home/alexander/.nuget/packages/",
-      "outputPath": "/home/alexander/Documentos/Procesos de desarrollo de software/Ordenamientos/obj/",
+      "projectPath": "D:\\Process Software Development\\ProcesosDeSof\\Ordenamientos\\Ordenamientos.csproj",
+      "packagesPath": "C:\\Users\\alexp\\.nuget\\packages\\",
+      "outputPath": "D:\\Process Software Development\\ProcesosDeSof\\Ordenamientos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/alexander/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\alexp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5782,7 +5784,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

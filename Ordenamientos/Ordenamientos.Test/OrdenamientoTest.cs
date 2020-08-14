@@ -115,6 +115,7 @@ namespace Ordenamientos
             
         }
 
+/*
          [TestMethod]
         public void heapSort()
         {
@@ -136,5 +137,7 @@ namespace Ordenamientos
 
             
         }
+    
+    */
     }
 }
