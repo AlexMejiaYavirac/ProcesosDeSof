@@ -1,0 +1,13 @@
+C:\Users\alexp\source\repos\OrdenamientosParametrizables\OrdenamientosParametrizables\bin\Debug\netcoreapp3.1\OrdenamientosParametrizables.exe
+C:\Users\alexp\source\repos\OrdenamientosParametrizables\OrdenamientosParametrizables\bin\Debug\netcoreapp3.1\OrdenamientosParametrizables.deps.json
+C:\Users\alexp\source\repos\OrdenamientosParametrizables\OrdenamientosParametrizables\bin\Debug\netcoreapp3.1\OrdenamientosParametrizables.runtimeconfig.json
+C:\Users\alexp\source\repos\OrdenamientosParametrizables\OrdenamientosParametrizables\bin\Debug\netcoreapp3.1\OrdenamientosParametrizables.runtimeconfig.dev.json
+C:\Users\alexp\source\repos\OrdenamientosParametrizables\OrdenamientosParametrizables\bin\Debug\netcoreapp3.1\OrdenamientosParametrizables.dll
+C:\Users\alexp\source\repos\OrdenamientosParametrizables\OrdenamientosParametrizables\bin\Debug\netcoreapp3.1\OrdenamientosParametrizables.pdb
+C:\Users\alexp\source\repos\OrdenamientosParametrizables\OrdenamientosParametrizables\obj\Debug\netcoreapp3.1\OrdenamientosParametrizables.csprojAssemblyReference.cache
+C:\Users\alexp\source\repos\OrdenamientosParametrizables\OrdenamientosParametrizables\obj\Debug\netcoreapp3.1\OrdenamientosParametrizables.AssemblyInfoInputs.cache
+C:\Users\alexp\source\repos\OrdenamientosParametrizables\OrdenamientosParametrizables\obj\Debug\netcoreapp3.1\OrdenamientosParametrizables.AssemblyInfo.cs
+C:\Users\alexp\source\repos\OrdenamientosParametrizables\OrdenamientosParametrizables\obj\Debug\netcoreapp3.1\OrdenamientosParametrizables.csproj.CoreCompileInputs.cache
+C:\Users\alexp\source\repos\OrdenamientosParametrizables\OrdenamientosParametrizables\obj\Debug\netcoreapp3.1\OrdenamientosParametrizables.dll
+C:\Users\alexp\source\repos\OrdenamientosParametrizables\OrdenamientosParametrizables\obj\Debug\netcoreapp3.1\OrdenamientosParametrizables.pdb
+C:\Users\alexp\source\repos\OrdenamientosParametrizables\OrdenamientosParametrizables\obj\Debug\netcoreapp3.1\OrdenamientosParametrizables.genruntimeconfig.cache
