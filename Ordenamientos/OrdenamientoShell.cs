@@ -110,7 +110,7 @@ namespace Ordenamientos
             return resultado;
         }
 
-       /* internal int[] heapSort(int numero1, int numero2, int numero3)
+        internal int[] heapSort(int numero1, int numero2, int numero3)
         {
             //Declaramos una variable y gradamos en un array los valores que recibimos
             var resultado = new[] { numero1, numero2, numero3 };
@@ -119,7 +119,7 @@ namespace Ordenamientos
 
             return resultado;
         }
-        */
+        
     }
 
 
